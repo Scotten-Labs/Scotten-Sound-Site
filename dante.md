@@ -7,7 +7,7 @@ permalink: /dante
     {{ homeRow | markdownify }}
 </body>
 
-# Dante Certifications
+#* Dante Certifications
 
 <embed src="/assets/pdfs/lvl1.pdf" width="800px" height="700px" />
 <embed src="/assets/pdfs/lvl2.pdf" width="800px" height="700px" />
