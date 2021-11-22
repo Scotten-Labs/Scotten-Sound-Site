@@ -11,4 +11,5 @@ permalink: /contact.html
 
 <body>
     {% capture form_contact %}{% include form_contact.md %}{% endcapture %}
+    {{form_contact | markdownify}}
 </body>
