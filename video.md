@@ -1,5 +1,5 @@
 ---
-permalink: /video.html
+permalink: /video
 ---
 
 <body>
