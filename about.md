@@ -1,5 +1,5 @@
 ---
-permalink: /404.html
+permalink: /template.html
 ---
 
 <body>
@@ -7,6 +7,6 @@ permalink: /404.html
     {{ homeRow | markdownify }}
 </body>
 
-# Error 404 the page you are looking for could not be found.
+# About Me
 
-This site is currently changing often.
+Hello there I am Oliver Scotten.
