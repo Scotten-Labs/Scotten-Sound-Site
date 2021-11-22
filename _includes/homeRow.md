@@ -1,4 +1,4 @@
-| [Home][1] | [About Me][5] | [Certificates][6] | [Contact][7] | <a href="mailto:design@scottensound.com"><span>Contact</span></a> |
+| [Home][1] | [About Me][5] | [Certificates][6] | [Contact][7] |
 
 [1]: /
 [2]: table
@@ -7,3 +7,4 @@
 [5]: about
 [6]: certificates
 [7]: mailto:design@scottensound.com
+[8]: template

@@ -3,7 +3,7 @@
     {{ homeRow | markdownify }}
 </body>
 
-# Scotten Sound is currently down for maintenance.
+# Scotten Sound is currently under construction, by ME, Oliver Scotten.
 Everything visible is for testing purposes **ONLY** nothing is permanent or finalized.
 
 #### TODO
@@ -14,7 +14,13 @@ Everything visible is for testing purposes **ONLY** nothing is permanent or fina
 - [ ] Portfolio
 - [ ] Education / Background
 
+---
+
 <body>
     {% capture testing %}{% include test.md %}{% endcapture %}
     {{ testing | markdownify }}
 </body>
+
+---
+
+This is going to include information about what I have done in the past! Eventually...
