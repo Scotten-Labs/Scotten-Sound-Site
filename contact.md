@@ -8,6 +8,7 @@ permalink: /contact.html
 </body>
 
 <!-- Generated from https://formkeep.com/forms/371924810a68/designer/edit on November 22, 2021 09:27 using version 1.10.14 -->
+<center>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <div class="container">
@@ -75,4 +76,5 @@ permalink: /contact.html
     </section>
   </div>
 </div>
+</center>
 <!-- Generated from https://formkeep.com/forms/371924810a68/designer/edit on November 22, 2021 09:27 using version 1.10.14 -->
