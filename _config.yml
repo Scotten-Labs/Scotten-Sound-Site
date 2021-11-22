@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Scotten Sound
+github:
+  is_project_page: false
