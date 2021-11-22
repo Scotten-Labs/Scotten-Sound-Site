@@ -1,5 +1,5 @@
 ---
-permalink: /template.html
+permalink: /contact
 ---
 
 <body>
