@@ -14,7 +14,7 @@ permalink: /contact.html
 <div class="container">
   <div class="row">
     <section class="container col-xs-12 col-sm-8 col-sm-offset-2 col-xl-6 col-xl-offset-3 my-4">
-        <div class="container" style="width:100%">
+        <div class="container" style="width:50%">
         <form class="" target="_self" enctype="multipart/form-data" action="https://formkeep.com/f/371924810a68" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
           <fieldset>
             <center><h1>Contact Me</h1></center>
