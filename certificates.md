@@ -1,5 +1,5 @@
 ---
-permalink: /dante.html
+permalink: /certificates.html
 ---
 
 <body>

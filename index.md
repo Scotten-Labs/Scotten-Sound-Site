@@ -8,12 +8,13 @@ Everything visible is for testing purposes **ONLY** nothing is permanent or fina
 
 #### TODO
 - [x] Figure out how to do inclusive markdown text (DONE)
-- [ ] Footers
-- [ ] About Page
+- [ ] Footers < Look more into this
+- [x] About Page
+- [ ] Finish About Page
 - [ ] Portfolio
 - [ ] Education / Background
 
 <body>
-    {% capture homeRow %}{% include test.md %}{% endcapture %}
-    {{ homeRow | markdownify }}
+    {% capture testing %}{% include test.md %}{% endcapture %}
+    {{ testing | markdownify }}
 </body>
