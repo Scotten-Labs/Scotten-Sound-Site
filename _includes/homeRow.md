@@ -1,4 +1,4 @@
-| [Home][1] | [About Me][5] | [Certificates][6] | [Contact][7] |
+| [Home][1] | [About Me][5] | [Certificates][6] | <a href="mailto:design@scottensound.com"><span>Contact</span></a> |
 
 [1]: /
 [2]: table
@@ -6,4 +6,3 @@
 [4]: video
 [5]: about
 [6]: dante
-[7]: design@scottensound.com
