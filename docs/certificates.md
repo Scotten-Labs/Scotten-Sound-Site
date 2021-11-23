@@ -16,3 +16,6 @@ permalink: /certificates.html
 
 
 <embed src="../pdf/lvl1.pdf"></embed>
+
+
+<object src="../pdf/lvl1.pdf"></object>
