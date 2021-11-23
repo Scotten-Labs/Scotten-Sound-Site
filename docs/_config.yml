@@ -1,7 +1,6 @@
 title: Scotten Sound
 email: design@scottensound.com
-baseurl: "/"
-url: "https://scottensound.com"
+url: "scottensound.com"
 github:
   is_project_page: false
 
