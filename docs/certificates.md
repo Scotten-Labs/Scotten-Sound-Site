@@ -10,8 +10,8 @@ permalink: /certificates.html
 # Dante Certifications
 
 <embed src="pdf/lvl1.pdf" width="800px" height="700px" >
-<embed src="../pdfs/lvl2.pdf" width="80%" height="700px" />
-<embed src="../pdfs/lvl3.pdf" width="80%" height="700px" />
+<embed src="_pdf/lvl2.pdf" width="100%" height="700px" />
+<embed src="pdf/lvl3.pdf" width="100%" height="700px" />
 
 
 
