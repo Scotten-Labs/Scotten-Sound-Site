@@ -1,17 +1,11 @@
-
-github:
-  is_project_page: false
-
-
-
 title: Scotten Sound
 email: design@scottensound.com
 description:
   Add this later.
 baseurl: "/"
 url: "https://scottensound.com"
+github:
+  is_project_page: false
 
 # Build settings
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
