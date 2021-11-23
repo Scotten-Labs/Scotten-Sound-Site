@@ -1,4 +1,4 @@
-| [Home][1] | [About Me][5] | [Certificates][6] | [Contact][7] |
+| [Home][1] | [About][5] | [Certificates][6] | [Contact][7] |
 
 [1]: /
 [5]: about
