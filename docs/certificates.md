@@ -15,4 +15,12 @@ permalink: /certificates.html
 
 <br>
 
+---
+
 <embed src="assets/pdfs/lvl2.pdf" width="800" height="700" type="application/pdf"></embed>
+
+
+---
+
+<iframe src="/assets/pdfs/lvl1.pdf">
+</iframe>
