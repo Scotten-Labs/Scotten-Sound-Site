@@ -1,3 +1,8 @@
+---
+permalink: "/"
+layout: "default"
+---
+
 <body>
     {% capture homeRow %}{% include homeRow.md %}{% endcapture %}
     {{ homeRow | markdownify }}
@@ -16,10 +21,7 @@ Everything visible is for testing purposes **ONLY** nothing is permanent or fina
 
 ---
 
-<body>
-    {% capture testing %}{% include test.md %}{% endcapture %}
-    {{ testing | markdownify }}
-</body>
+
 
 ---
 

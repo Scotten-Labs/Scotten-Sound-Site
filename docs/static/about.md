@@ -1,5 +1,6 @@
 ---
 permalink: /about.html
+layout: "default"
 ---
 
 <body>
