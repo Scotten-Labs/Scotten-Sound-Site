@@ -13,17 +13,6 @@ permalink: /certificates.html
 <embed src="/pdfs/lvl2.pdf" width="80%" height="700px" />
 <embed src="/pdfs/lvl3.pdf" width="80%" height="700px" />
 
-<br>
-
----
-
-<embed src="assets/pdfs/lvl2.pdf" width="800" height="700" type="application/pdf"></embed>
-
-
----
-
-<iframe src="/assets/pdfs/lvl1.pdf">
-</iframe>
 
 
 <embed src="/pdf/lvl1.pdf"></embed>
