@@ -8,7 +8,3 @@ permalink: /certificates.html
 </body>
 
 # Dante Certifications
-
-<embed src="assets/pdfs/lvl1.pdf" width="800px" height="700px" />
-<embed src="assets/pdfs/lvl2.pdf" width="800px" height="700px" />
-<embed src="assets/pdfs/lvl3.pdf" width="800px" height="700px" />
