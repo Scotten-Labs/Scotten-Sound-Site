@@ -24,3 +24,8 @@ permalink: /certificates.html
 
 <iframe src="/assets/pdfs/lvl1.pdf">
 </iframe>
+
+
+---
+
+<a src="assets/pdfs/lvl1.pdf"></a>
