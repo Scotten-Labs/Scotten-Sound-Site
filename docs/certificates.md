@@ -9,7 +9,7 @@ permalink: /certificates.html
 
 # Dante Certifications
 
-<embed src="scottensound.com/assets/pdfs/lvl1.pdf" width="800px" height="700px" >
+<embed src="pdf/lvl1.pdf" width="800px" height="700px" >
 <embed src="../pdfs/lvl2.pdf" width="80%" height="700px" />
 <embed src="../pdfs/lvl3.pdf" width="80%" height="700px" />
 
