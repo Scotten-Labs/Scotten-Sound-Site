@@ -4,5 +4,3 @@ Gemfile.lock
 *.gem
 .jekyll-cache
 .jekyll-cache
-Gemfile
-jekyll-theme-cayman.gemspec
