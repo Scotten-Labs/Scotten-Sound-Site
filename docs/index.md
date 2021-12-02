@@ -3,26 +3,30 @@ permalink: "/"
 layout: "default"
 ---
 
-<body>
-    {% capture homeRow %}{% include homeRow.md %}{% endcapture %}
-    {{ homeRow | markdownify }}
-</body>
+# Scotten Sound is currenlty being built.
 
-# Scotten Sound is currently under construction, by ME, Oliver Scotten.
-Everything visible is for testing purposes **ONLY** nothing is permanent or finalized.
+### This site is built using jekyll and hosted on GitHub Pages.
+Most everything visible is for testing purposes **ONLY**, nothing is permanent nor finalized.
+
+---
 
 #### TODO
 - [x] Figure out how to do inclusive markdown text (DONE)
 - [ ] Footers < Look more into this
-- [x] About Page
+- [ ] Headers < ^^^ Same up there
+- [x] About Page < Add stuff to ths
 - [ ] Finish About Page
 - [ ] Portfolio
 - [ ] Education / Background
 
 ---
 
+# Past Events
 
-
----
-
-This is going to include information about what I have done in the past! Eventually...
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

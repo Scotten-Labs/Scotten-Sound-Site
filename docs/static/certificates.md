@@ -3,11 +3,6 @@ permalink: /certificates.html
 layout: "default"
 ---
 
-<body>
-    {% capture homeRow %}{% include homeRow.md %}{% endcapture %}
-    {{ homeRow | markdownify }}
-</body>
-
 # Dante Certifications
 
 <embed src="assets\pdfs\lvl1.pdf" width="100%" height="700px" >

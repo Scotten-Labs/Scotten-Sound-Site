@@ -28,6 +28,12 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+
+      <!--  This is my custom homeRow, look into moving into header *maybe*. -->
+      {% capture homeRow %}{% include homeRow.md %}{% endcapture %}
+      {{ homeRow | markdownify }}
+      <!-- -->
+
       {{ content }}
 
       <footer class="site-footer">
