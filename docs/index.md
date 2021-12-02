@@ -1,6 +1,7 @@
 ---
 permalink: "/"
 layout: "default"
+title: "Scotten Sound"
 ---
 
 # Scotten Sound is currenlty being built.
