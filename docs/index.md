@@ -5,7 +5,7 @@ title: "Scotten Sound"
 ---
 
 # Scotten Sound is currenlty under maintenance.
-Hello and welcome to my website! There is still a lot of information missing here so I will ask that for now you go check out my [LinkedIn here](https://www.linkedin.com/in/opscotten)! That is were you can find all of my work experience and past shows I have done up until now. Eventually I will be adding in work experience and past shows I have worked or designed here to give more detailed information.
+Hello and welcome to my website! There is still a lot of information missing here so I will ask that, for now, you go check out my [LinkedIn here](https://www.linkedin.com/in/opscotten)! That is were you can find all of my work experience and past shows I have done up until now. Eventually I will be adding in work experience and past shows I have worked or designed here to give more detailed information.
 
 ### Site Backend
 This site was written by me (mostly), if you were curious. It's currently hosted and managed through [GitHub Pages](https://pages.github.com/). If you want to see the source code, that I have written for this site, for any reason you can click [here](https://github.com/Scotten-Labs/Scotten-Sound-Site)!
