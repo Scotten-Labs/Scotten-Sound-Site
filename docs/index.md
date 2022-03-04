@@ -24,6 +24,7 @@ This site was written by me (mostly), if you were curious. It's currently hosted
 - [ ] Portfolio
 - [ ] Education / Background
 - [ ] Past / Current Events
+- [ ] Fix subtitles on Posts
 
 ---
 
