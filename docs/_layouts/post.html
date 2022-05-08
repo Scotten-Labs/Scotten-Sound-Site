@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+{% comment %}
+
+	Solid State by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Blog post layout
+
+	Description:
+
+		A layout for individual blog posts.
+
+	Example:
+
+		---
+		layout: post
+		---
+
+{% endcomment %}
+
+{% if page.image %}
+	<style>
+		body {
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("{{ site.baseurl }}{{ page.image }}");
+		}
+	</style>
+{% endif %}
+
+<!-- Wrapper -->
+	<section id="wrapper">
+		<header style="">
+			<div class="inner">
+				<h2>{{ page.title }}</h2>
+				<p>{{ page.date | date: "%B %-d, %Y" }}</p>
+			</div>
+		</header>
+
+		<!-- Content -->
+			<div class="wrapper">
+				<div class="inner">
+
+					{{ content }}
+
+				</div>
+			</div>
+
+	</section>
